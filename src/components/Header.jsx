@@ -1,5 +1,4 @@
 import headerLogo from '../assets/images/lingua.png'
-import backgroundPic from '../assets/images/background.png'
 const Header = () => {
   return (
     <header className="flex justify-between items-center p-6 mx-36 ">
