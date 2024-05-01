@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'custom-image': "url('./src/assets/images/background.png')"
+        'custom-image': "url('/src/assets/images/background.png')"
       },
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
